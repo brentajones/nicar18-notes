@@ -1,3 +1,5 @@
+This is Brent Jones' notes from NICAR 2018
+
 # Uncovering environmental hazards faced by urban children
 
 * Chris Zubak-Skees
